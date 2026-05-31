@@ -5,5 +5,8 @@
 # this is a simple LogOut java Swing program that play a WindowsXP Nostalgic sound
 
 # Usage
-## Simple java Main.java
+## Simple
+```
+java Main.java
+```
 ## I create a bash script in /usr/local/bin/lxqt-leave that replace the original logout app from lxqt and run this LogOut App
